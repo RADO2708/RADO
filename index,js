@@ -1,0 +1,11 @@
+{
+	"country_code": "TH",
+	"locale": "th",
+	"subdivisions": {
+		"Krabi": {
+			"local_code": "กระบี่",
+			"iso_code": "TH-81",
+			"postal_code_pattern": "81"
+		},
+		"Bangkok": {
+			"local_code": "กรุงเทพมหานคร",
